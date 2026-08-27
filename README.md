@@ -19,4 +19,4 @@
 # Languages
 ![Static Badge](https://img.shields.io/badge/csharp-black?style=for-the-badge&label=c%23&labelColor=512bd4)
 
-[Games portfolio](https://drdinnerbone.itch.io/)
+[Website](https://drdinnerbone.github.io/)
