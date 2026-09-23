@@ -20,3 +20,7 @@
 ![Static Badge](https://img.shields.io/badge/csharp-black?style=for-the-badge&label=c%23&labelColor=512bd4)
 
 [Website](https://benjaminfberger.github.io/)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=benjaminfberger&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=anuraghazra&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=dark_github)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=benjaminfberger&layout=compact&hide_title=true&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&hide_title=true&langs_count=4&theme=dark_github)
