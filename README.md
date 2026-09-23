@@ -16,8 +16,6 @@
 [Discontinued] [Psuedorandom Number Generator](https://github.com/benjaminfberger/Pseudorandom-Number-Generator) - C# library for a psuedorandom number generator.
 
 [Discontinued] [Flappy Bird](https://github.com/benjaminfberger/Flappy-Bird) - A Flappy Bird clone made in WinForms.
-# Languages
-![Static Badge](https://img.shields.io/badge/csharp-black?style=for-the-badge&label=c%23&labelColor=512bd4)
 
 [Website](https://benjaminfberger.github.io/)
 
