@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Ben, a student with a passion for programming and technology. I enjoy exploring new ideas and creating innovative solutions. In my free time, I love gaming and listening to music. Feel free to reach out to me through my GitHub or email!
 
 ## Currently working on:
 [POP](https://github.com/benjaminfberger/POP-Language) - My very own programming language!
