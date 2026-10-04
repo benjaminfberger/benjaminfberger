@@ -6,6 +6,8 @@ I'm Ben, a student with a passion for programming and technology. I enjoy explor
 
 [1bitatatime](https://github.com/benjaminfberger/1bitatatime) - A low level language I made. 
 
+[nandcode](https://github.com/benjaminfberger/nandcode) - A fork of 1bitatatime with only nand. 
+
 ## Favorite projects:
 [Discontinued] [TRON](https://github.com/benjaminfberger/TRON) - A 2.5D raycasting-based game that procedurally generates a new maze layout on startup each time, rendering the environment in the console at 60fps at ~900 char width.
 
