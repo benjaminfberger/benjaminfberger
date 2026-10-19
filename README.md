@@ -1,6 +1,10 @@
 ## Hi there 👋
 I'm Ben, a student with a passion for programming and technology. I enjoy exploring new ideas and creating innovative solutions. In my free time, I love gaming and listening to music. Feel free to reach out to me through my GitHub or email!
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=benjaminfberger&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=anuraghazra&include_all_commits=true&theme=dark_github)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=benjaminfberger&layout=compact&langs_count=20&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=20&theme=dark_github)
+
 ## Currently working on:
 [POP](https://github.com/benjaminfberger/POP-Language) - My very own programming language!
 
@@ -23,5 +27,3 @@ I'm Ben, a student with a passion for programming and technology. I enjoy explor
 [Discontinued] [Flappy Bird](https://github.com/benjaminfberger/Flappy-Bird) - A Flappy Bird clone made in WinForms.
 
 [Website](https://benjaminfberger.github.io/)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=benjaminfberger&layout=compact&langs_count=20&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=20&theme=dark_github)
