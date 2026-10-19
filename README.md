@@ -23,3 +23,5 @@ I'm Ben, a student with a passion for programming and technology. I enjoy explor
 [Discontinued] [Flappy Bird](https://github.com/benjaminfberger/Flappy-Bird) - A Flappy Bird clone made in WinForms.
 
 [Website](https://benjaminfberger.github.io/)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=benjaminfberger&layout=compact&langs_count=20&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=20&theme=dark_github)
